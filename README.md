@@ -30,8 +30,9 @@ The focus of this case study is to gain insight into growth opportunities to hel
 * Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
 * Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy.
   
-  <span style="color:teal;">The Data: Preparing, and Processing for Analysis
---------------------------------------------------------------------------
+  
+<span style="color:teal;">The Data: Preparing, and Processing for Analysis
+-----------------------------------------------------------------------------
 
 The data source used for the case study is the [Fitbit Fitness Tracker](https://www.kaggle.com/arashnic/fitbit) Data, a dataset stored and made available by Mobius. 
 The data contains data from thirty fitbit users who consented to the submission of personal tracker 
@@ -49,4 +50,5 @@ The datasets that will be used to help solve the business task will be:
 * daily_sleep
 * weigth_log     
 * daily_intensities
+<img width="1134" alt="Screen Shot 2021-11-28 at 8 32 06 PM" src="https://user-images.githubusercontent.com/87612999/143799832-cda0c157-d365-4aaf-9efc-2459968bd7a5.png">
 
