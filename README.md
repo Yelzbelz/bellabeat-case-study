@@ -49,4 +49,4 @@ The datasets that will be used to help solve the business task will be:
 * daily_sleep
 * weigth_log     
 * daily_intensities
-  
+
