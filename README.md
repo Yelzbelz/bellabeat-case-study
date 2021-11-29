@@ -1,5 +1,4 @@
-# bellabeat-case-study
-A case study focused on gaining insight into growth opportunities to help guide the marketing strategy for the company, Bellabeat.
+
 
 ![bellabeat](https://user-images.githubusercontent.com/87612999/143798675-1de98020-af43-461b-aec1-86da8a13225b.jpg)
 
